@@ -1,5 +1,5 @@
 ## Computational tankegang
-- Her følger CMC modellen
+- Her følger CMC modellen og en meget kort intro til agenbaseret simulering.
 Øvelser i Computational thinking
 
 
