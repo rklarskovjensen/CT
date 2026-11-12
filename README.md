@@ -1,4 +1,5 @@
 [link til hjemmeside version](https://rklarskovjensen.github.io/CT/)
+
 [link tilbage til readme og filoversigten](https://github.com/rklarskovjensen/CT/blob/main/README.md)
 ## Computational tankegang
 - Her følger CMC modellen og en meget kort intro til agenbaseret simulering.
