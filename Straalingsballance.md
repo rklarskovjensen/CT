@@ -20,5 +20,6 @@ Når det er lykkedes gå så ned til hvor der står 'Model Info'.
 
 I Grupper af fire gennemføres 'rollelæsning', person nr 1 læser et afsnit højt mens de andre læser med, Person nr 2 notere  nøgleord og fortæller dem efter højtlæsningen, person nr 3 giver et kort resume af afsnittet og person nr 4 samler op på den overordnede sammenhæng med resten af teksten (person har ikke noget at lave efter 1 afsnit).  Til næste afsnit skifter numre sådan at tidligere person nr 2 nu bliver person 1 osv og rollelæsningen gentages afsnit for afsnit i hele model info. 
 
-Derefter se først på afsnittet med 'ting du kan prøve' og mens du prøver at gøre tingene sammen med sidekammeraten så læs om hvordan man bruger simuleringen. Og tag notater til afleveringen af opgave om simuleringen.
-Bare for sjov kan du lige starte med at trykke på knapperne setup og go.
+Start så med at trykke på knapperne setup og go.
+Derefter se først lige igen på afsnittet med 'ting du kan prøve' og mens du prøver at gøre tingene sammen med sidekammeraten så læs om hvordan man bruger simuleringen. Og tag notater til afleveringen af opgave om simuleringen.
+
