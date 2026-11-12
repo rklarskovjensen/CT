@@ -1,3 +1,4 @@
+[link til hjemmeside version](https://rklarskovjensen.github.io/CT/)
 ## Computational tankegang
 - Her følger CMC modellen og en meget kort intro til agenbaseret simulering.
 Øvelser i Computational thinking
