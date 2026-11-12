@@ -15,6 +15,7 @@ Opload filen i simuleringsværktøjet ved navn netlogo her:
 https://www.netlogoweb.org/launch#Load [Eller tryk her på linket](https://www.netlogoweb.org/launch#Load)
 Ved at trykke på knappen øverst til højre hvor der står 'opload a model', følgende ikon:
 - her er et stregpunkt
+  <img width="361" height="60" alt="billede" src="https://github.com/user-attachments/assets/aa13fd6b-1477-40ac-b676-3a41b69c45cd" />
 
 Bare for sjov kan du lige starte med at trykke på knapperne setup og go.
 
