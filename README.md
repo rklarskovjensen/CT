@@ -1,4 +1,5 @@
-# CT
+## Computational tankegang
+- Her følger CMC modellen
 Øvelser i Computational thinking
 
 
@@ -8,6 +9,7 @@
 - ca 20 med af prøvning af simuleringen med opsamling om modellen og lille ekstra udfordring i at finde albedo del af koden.
 - Tilgængeligt her:
 https://rklarskovjensen.github.io/CT/Straalingsballance.html [Eller ved at trykke på dette link](https://rklarskovjensen.github.io/CT/Straalingsballance.html)
-- Her efter skal der være fokus på løsningsmodeller her
-## Computational tankegang
-- Her følger CMC modellen
+- pause 5 minutter.
+- ca 20 min : Her efter skal der være fokus på løsningsmodeller her med film om renteknologi  [tryk her på det her link til den korte film](https://www.dr.dk/drtv/episode/ren-teknologi_-farvel-til-benzin_324281).  Der skal tages noter fra filmen
+- ca 10 min med opsamling i klassen om de vigtigste begreber fra løsningsmodeller.
+- ca 10 minutter med en anden film fra samme sted.  Man kan se mere hjemme selv.
